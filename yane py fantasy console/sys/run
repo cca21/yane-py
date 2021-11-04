@@ -1,0 +1,7 @@
+from subprocess import run
+from sys import argv # needed?
+print(f'Running: {" ".join(argv[1:])}')
+try:
+    run('python ./prog/'+" ".join(argv[1:]))
+except Exception as err:
+    print('Something went wrong!\n',err)
