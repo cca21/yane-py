@@ -1,9 +1,0 @@
-run [filename]
------
-BASIC
-- The `run` command runs the rom
-  file. File must be in ./prog/
-TECHNICAL
-- This command creates a subprocess
-  which runs the given file with the
-  command `python run <input file>`
