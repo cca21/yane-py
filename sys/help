@@ -1,0 +1,2 @@
+print('''Welcome to YANE-py
+Type `ls` to list all files in all available directories''')

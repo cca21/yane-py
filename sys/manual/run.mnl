@@ -1,0 +1,9 @@
+run [filepath] # This command is deprecated, because it sucks.
+-----
+BASIC
+- The `run` command runs the rom
+  file.
+TECHNICAL
+- This command creates a subprocess
+  which runs the given file with the
+  command `python run <input file>`

@@ -1,0 +1,11 @@
+ls
+-----
+BASIC
+- The `ls` command lists every
+  file in the ./prog and ./sys
+  directories.
+TECHNICAL
+- This command creates a subprocess
+  which looks through the ./prog
+  and ./sys directories and
+  displays every file and directory.

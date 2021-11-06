@@ -1,0 +1,6 @@
+implement
+	ChangeDirectory command (cli only)
+	EDIT command (choose to rewrite certain lines of a file, cli only)
+	VISUAL EDITORS FOR GUI!!!
+improve
+	READ command (cli only)

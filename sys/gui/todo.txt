@@ -1,0 +1,3 @@
+- mk code,sprite,map,music,sfx editor combo
+	- figure out how to compile(wrong jargon?) to python module
+	- probably ship or download files as a .tar (since python has an automatic tar unzipper)
