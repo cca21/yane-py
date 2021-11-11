@@ -1,0 +1,8 @@
+from os  import walk
+from sys import argv
+if len(argv) < 2 or '..' in argv[1]:
+	arg = '.'
+else:
+	arg = argv[1]
+for root, dir, file in walk(arg):	
+	print("In "+root+"\n\t"+"\n\t".join(file))

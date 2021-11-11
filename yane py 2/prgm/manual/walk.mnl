@@ -1,0 +1,10 @@
+walk
+-----
+BASIC
+- The `walk` command lists every
+  file in all directories and
+  subdirectories.
+TECHNICAL
+- This command creates a subprocess
+  which looks through and displays
+  every file and directory.
